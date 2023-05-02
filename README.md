@@ -24,4 +24,5 @@ Python libaries needed: numpy, PIL, matplotlib, and operating interfaces such as
 
 ## Acknowledgement 
 This app is inspired by the SVD algorithm from John Krohn's Udemy course "Mathematical Foundations of Machine Learning" 
+
 The Matrix calculation technique used is learned from Math 136 @ University of Waterloo 
