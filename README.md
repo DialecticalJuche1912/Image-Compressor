@@ -1,6 +1,6 @@
 # Image-Compressor
 ## Functionalities: 
-This app performs image compression using Singular Value Decomposition (SVD) and the Moore-Penrose Pesudoinverse method in Python. Given the website link of any images, it can handle both grayscale and colored images, which uses the SVD method to reconstruct images into 64 matrices which reduces the image size to a fraction of original size. 
+This app performs image compression using Singular Value Decomposition (SVD) and the Moore-Penrose Pesudoinverse method in Python. Given the website link of any images (the one I used is an image of [big chungus](https://static.wikia.nocookie.net/supermarioglitchy4/images/f/f3/Big_chungus.png/revision/latest?cb=20200511041102), it can handle both grayscale and colored images, which uses the SVD method to reconstruct images into 64 matrices which reduces the image size to a fraction of original size. 
 
 ## Tools Required
 To run this image compressor, you will need to have 
